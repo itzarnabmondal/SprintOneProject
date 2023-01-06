@@ -39,7 +39,7 @@ git clone https://github.com/arxmondal/SprintOneProject.git
 #
 ### NOTE
 > If you have trouble configuring the security parameters with a tool like Postman, you can comment out the spring-boot-starter-security and spring-security-test dependencies in the pom.xml file and dont't forget to comment out the ```com/anudip/lms/authentication/AdminDetails.java``` file to avoid errors.
-> **Boom** 🔥 Now to can call Api's via postman or similar tools without any authentaction :)
+> **Boom** 🔥 Now you can call Api's via postman or similar tools without any authentaction :)
 
 > At the moment, we are using in-memory authentication to authenticate admins. The username and password hash for all admins are hardcoded in a hashmap inside the ```com/anudip/lms/authentication/AdminDetails.java``` file.
 
@@ -70,12 +70,12 @@ git clone https://github.com/arxmondal/SprintOneProject.git
 ```
 
 ### Delete a book
-Method: DELETE
-API URL: http://localhost:8080/deletebook/{existing-bookid}
+- Method: DELETE
+- API URL: http://localhost:8080/deletebook/existing-bookid
 
 ### Update a book's details
 - Method: PUT
-- API URL: http://localhost:8080/updatebook/{existing-book-id}
+- API URL: http://localhost:8080/updatebook/existing-book-id
 - Body (JSON)
 ```json
 {
