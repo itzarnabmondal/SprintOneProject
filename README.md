@@ -135,6 +135,6 @@ git clone https://github.com/arxmondal/SprintOneProject.git
 ## License
 ⚖ [**MIT**](https://opensource.org/licenses/MIT)
 
-# Absolutely free and open source? Hell yeah, that's the way we like it!
+Absolutely free and open source? Hell yeah, that's the way we like it!
 
 ##### Made with 💗 from kolkata
