@@ -37,7 +37,7 @@ git clone https://github.com/arxmondal/SprintOneProject.git
 ```
 
 ## User Instructions
-#
+
 ### NOTE
 > If you have trouble configuring the security parameters with a tool like Postman, you can comment out the spring-boot-starter-security and spring-security-test dependencies in the pom.xml file and dont't forget to comment out the ```com/anudip/lms/authentication/AdminDetails.java``` file to avoid errors.
 > **Boom** 🔥 Now you can call Api's via postman or similar tools without any authentaction :)
@@ -135,6 +135,6 @@ git clone https://github.com/arxmondal/SprintOneProject.git
 ## License
 ⚖ [**MIT**](https://opensource.org/licenses/MIT)
 
-Compleately FREE And OPEN SOURCE, **Hell Yeah! :)**
+# Absolutely free and open source? Hell yeah, that's the way we like it!
 
 ##### Made with 💗 from kolkata
