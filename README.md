@@ -17,7 +17,7 @@ Update the details of a book, such as its title or author, by providing the book
 - The API allows users to perform these operations via HTTP requests, such as POST, PUT, and DELETE. The API returns appropriate responses, such as success or error messages, in the form of JSON data.
 
 ## Used Technologies
->This project was made possible thanks to the use of several open source software packages. We would like to express our gratitude to the developers and maintainers of these tools.
+> This project was made possible thanks to the use of several open source software packages. We would like to express our gratitude to the developers and maintainers of these tools.
 
 - [ JDK - 17 ] - An amazing programming language.
 - [ Spring-Boot ] - A framework for humans.
@@ -29,8 +29,9 @@ Update the details of a book, such as its title or author, by providing the book
 And of course this project itself is open source with a public repository on GitHub.
 
 ## Installation
-This project requires JDK 17+, Mysql Server and and IDE with Spring Boot support to run.
-Clone this git to get the compleate project
+This project requires JDK 17+, Mysql Server and an IDE with Spring Boot support to run.
+
+Clone this git to get complete project
 ```
 git clone https://github.com/arxmondal/SprintOneProject.git
 ```
