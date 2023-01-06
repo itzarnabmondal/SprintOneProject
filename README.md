@@ -19,12 +19,12 @@ Update the details of a book, such as its title or author, by providing the book
 ## Used Technologies
 >This project was made possible thanks to the use of several open source software packages. We would like to express our gratitude to the developers and maintainers of these tools.
 
-- [ Java-17 ] - An amazing programming language 
-- [Spring-Boot] - A framework for humans
-- [Spring Data JPA] - Library that allows for easy implementation of JPA
-- [Spring Security] - For enterprise level security
-- [Mysql 8] - Great RBMS for storing data
-- [visual Studio Code] - As an awsome text editor
+- [ JDK - 17 ] - An amazing programming language.
+- [ Spring-Boot ] - A framework for humans.
+- [ Spring Data JPA ] - Library that allows easy implementation of JPA.
+- [ Spring Security ] - For enterprise level security.
+- [ Mysql 8 ] - Great RBMS for storing and manipulating data.
+- [ Visual Studio Code ] - An awsome text editor.
 
 And of course this project itself is open source with a public repository on GitHub.
 
@@ -71,7 +71,15 @@ git clone https://github.com/arxmondal/SprintOneProject.git
 
 ### Delete a book
 - Method: DELETE
-- API URL: http://localhost:8080/deletebook/existing-bookid
+- API URL: http://localhost:8080/deletebook/existing-book-id
+
+### Delete a customer
+- Method: DELETE
+- API URL: http://localhost:8080/deletecustomer/existing-customer-id
+
+### Get al books
+- Method: DELETE
+- API URL: http://localhost:8080/getallbook
 
 ### Update a book's details
 - Method: PUT
