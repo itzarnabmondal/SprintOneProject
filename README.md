@@ -50,11 +50,11 @@ git clone
 - Body (JSON)
 ```json
 {
-  "name": "Book Title",
+  "name" : "Book Title",
   "author": "Book Author",
   "category" : "Book Category",
-  "description" : "Book Description"
-  "price": 0000
+  "description" : "Book Description",
+  "price": "Book Price"
 }
 ```
 ### Add a new customer
@@ -63,9 +63,9 @@ git clone
 - Body (JSON)
 ```json
 {
-  "name": "Customer Name",
-  "address": "Customer Address",
-  "phoneNumber": "Phone Number"
+  "name" : "Customer Name",
+  "address" : "Customer Address",
+  "phoneNumber" : "Phone Number"
 }
 ```
 
@@ -79,11 +79,11 @@ API URL: http://localhost:8080/deletebook/{existing-bookid}
 - Body (JSON)
 ```json
 {
-  "name": "Book Title",
-  "author": "Book Author",
-  "category" : "Book Category",
-  "description" : "Book Description"
-  "price": 0000
+  "name" : "Updated Name",
+  "author" : "Updated Author",
+  "category" : "Updated Category",
+  "description" : "Updated Description",
+  "price": "Updated Price"
 }
 ```
 
@@ -93,9 +93,9 @@ API URL: http://localhost:8080/deletebook/{existing-bookid}
 - Body (JSON)
 ```json
 {
-  "name": "Updated Customer Name",
-  "address": "Updated Customer Address",
-  "phoneNumber": "Updated Phone Number"
+  "name" : "Updated Customer Name",
+  "address" : "Updated Customer Address",
+  "phoneNumber" : "Updated Phone Number"
 }
 ```
 
@@ -124,7 +124,8 @@ API URL: http://localhost:8080/deletebook/{existing-bookid}
 - Tiyasha Naskar : tiyasanaskar113@gmail.com
 
 ## License
-[**MIT**](https://opensource.org/licenses/MIT)
+⚖ [**MIT**](https://opensource.org/licenses/MIT)
+
 Compleately FREE And OPEN SOURCE, **Hell Yeah! :)**
 
 ##### Made with 💗 from kolkata
