@@ -19,7 +19,7 @@ Update the details of a book, such as its title or author, by providing the book
 ## Used Technologies
 > This project was made possible thanks to the use of several open source software packages. We would like to express our gratitude to the developers and maintainers of these tools.
 
-- [ JDK - 17 ] - An amazing programming language.
+- [ Java - 17 ] - An amazing programming language.
 - [ Spring-Boot ] - A framework for humans.
 - [ Spring Data JPA ] - Library that allows easy implementation of JPA.
 - [ Spring Security ] - For enterprise level security.
