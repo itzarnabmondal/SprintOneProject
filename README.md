@@ -32,7 +32,7 @@ And of course this project itself is open source with a public repository on Git
 This project requires JDK 17+, Mysql Server and and IDE with Spring Boot support to run.
 Clone this git to get the compleate project
 ```
-git clone
+git clone https://github.com/arxmondal/SprintOneProject.git
 ```
 
 ## User Instructions
