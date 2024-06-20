@@ -125,13 +125,6 @@ git clone https://github.com/arxmondal/SprintOneProject.git
 ## Contact Developer
 > If you have any questions or suggestions please don't hesitate to contact the developer at arnabmondal@duck.com it would be our pleasure if you ware to make contact with us :)
 
-## Contributors
-- Bidisha Sahoo : bidishasahoo98@gmail.com
-- Pritam Das : priatmdas022002@gmail.com
-- Puja Sarkar : sarkarpuja2k@gmail.com
-- Rohit Maity : rohit.maity@hotmail.com
-- Tiyasha Naskar : tiyasanaskar113@gmail.com
-
 ## License
 ⚖ [**MIT**](https://opensource.org/licenses/MIT)
 
